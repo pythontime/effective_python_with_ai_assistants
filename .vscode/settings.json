@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": ".venv/Scripts/python",
+    "python.testing.pytestArgs": [
+        "test"
+    ],
+    "python.testing.cwd": "${workspaceFolder}",
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
